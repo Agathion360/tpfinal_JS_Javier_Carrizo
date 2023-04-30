@@ -1,0 +1,14 @@
+[
+    {"id" : 1,"nombre":"Golosinas"},
+    {"id" : 2,"nombre":"Fiambreria"},
+    {"id" : 3,"nombre":"Gaseosas"},
+    {"id" : 4,"nombre":"Bebidas sin Alcohol"},
+    {"id" : 5,"nombre":"Bebidas con Alcohol"},
+    {"id" : 6,"nombre":"Lacteos"},
+    {"id" : 7,"nombre":"Panificados"},
+    {"id" : 8,"nombre":"Pastas Secas"},
+    {"id" : 9,"nombre":"Cereales"},
+    {"id" : 10,"nombre":"Art. de Limpieza"},
+    {"id" : 11,"nombre":"Galletas"}
+
+]
